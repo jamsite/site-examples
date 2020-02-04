@@ -1,0 +1,21 @@
+{
+  "name": "pwa-vanilla",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Jamsite pwa example site.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx jamsite start",
+    "inspect": "npx --node-arg=--inspect jamsite start",
+    "dev": "npx jamsite start-dev"
+  },
+  "author": "Aleksandr Tsertkov <tsertkov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@jamsite/jamsite": "0.0.x",
+    "handlebars-helpers": "^0.10.0"
+  },
+  "devDependencies": {
+    "@jamsite/jamsite-dev": "0.0.x"
+  }
+}
