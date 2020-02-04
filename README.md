@@ -3,6 +3,6 @@
 Collection of sites built with Jamsite showcasing different web technologies and
 Jamsite integrations.
 
-## List of sites
+## Sites
 
 - `pwa-vanilla` - Simple Jamsite PWA with vanilla JS.
